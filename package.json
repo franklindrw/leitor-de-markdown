@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-vm-modules ./node_modules/.bin/jest",
-    "cli": "node cli.js ./Documents/text2.md"
+    "cli": "node cli.js ./Documents/text2git.md"
   },
   "repository": {
     "type": "git",
