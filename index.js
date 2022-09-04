@@ -9,15 +9,15 @@ function extraiLinks(text){
     while((temp = regex.exec(text)) != null){
         arrayResultados.push({[temp[1]]: temp[2]});
     }
-    return arrayResultados;
+    return arrayResultados.length === 0 ? 'não há links no arquivo' : arrayResultados;
 }
 
 //usando async e await
-async function pegaArquivo(caminhoDoArquivo){
+export async function pegaArquivo(caminhoDoArquivo){
     const encoding = 'utf8';
     try{
         const text = await fs.promises.readFile(caminhoDoArquivo, encoding);
-        log(extraiLinks(text));
+        return extraiLinks(text);
     } catch(err){
         trataErro(err);
     } finally{
@@ -50,5 +50,3 @@ async function pegaArquivo(caminhoDoArquivo){
 function trataErro(erro){
     throw new Error(chalk.red(erro.code, "não foi possível ler o arquivo:" + erro.message));
 }
-
-pegaArquivo(`./Documents/text1.md`);
