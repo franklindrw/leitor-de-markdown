@@ -13,7 +13,7 @@ function extraiLinks(text){
 }
 
 //usando async e await
-export async function pegaArquivo(caminhoDoArquivo){
+export default async function pegaArquivo(caminhoDoArquivo){
     const encoding = 'utf8';
     try{
         const text = await fs.promises.readFile(caminhoDoArquivo, encoding);
