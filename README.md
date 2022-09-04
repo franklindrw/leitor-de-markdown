@@ -26,6 +26,13 @@
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+![jest-result](https://user-images.githubusercontent.com/81038899/188332953-7ce0d5dc-28a6-4774-bf5c-5171306918f8.png)
+![jest-testers](https://user-images.githubusercontent.com/81038899/188332962-e4e97579-6274-4474-a882-1c421c74e48e.png)
+![validacao-list](https://user-images.githubusercontent.com/81038899/188332965-d4d7cd68-cf53-4fd5-b311-af7659382746.png)
+![regex](https://user-images.githubusercontent.com/81038899/188332967-d21b23da-ebfe-463a-9329-8e00e75fd2a7.png)
+![teste-fetch](https://user-images.githubusercontent.com/81038899/188332970-faac088c-475a-47af-9256-6f34eb6ccdc0.png)
+![valida-request](https://user-images.githubusercontent.com/81038899/188332972-d4d0a079-19ae-4a51-b894-fa4a628f5eef.png)
+![ver-status-http](https://user-images.githubusercontent.com/81038899/188332973-6bf34963-a917-49c3-9a69-adabb577e63b.png)
 
 <br /><br />
 
