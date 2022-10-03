@@ -13,7 +13,7 @@
 
 <br /><br />
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev | https://cursos.alura.com.br/vitrinedev/franklindrw |
 | -------------  | --- |
 | :sparkles: Nome        | Leitor de Markdown
 | :label: Tecnologias | Javascript, Node.js, Jest
