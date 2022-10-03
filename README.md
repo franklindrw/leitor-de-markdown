@@ -18,7 +18,7 @@
 | :sparkles: Nome        | Leitor de Markdown
 | :label: Tecnologias | Javascript, Node.js, Jest
 | :rocket: URL         | 
-| :fire: Desafio     | Criar um leitor de markdown para testar
+| :fire: Desafio     | Criar um leitor de markdown para testar URL
 
 <br /><br />
 
