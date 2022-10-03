@@ -13,6 +13,15 @@
 
 <br /><br />
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | Leitor de Markdown
+| :label: Tecnologias | Javascript, Node.js, Jest
+| :rocket: URL         | 
+| :fire: Desafio     | Criar um leitor de markdown para testar
+
+<br /><br />
+
 ## 🧭 Índice
 * [Sobre o Projeto](#-sobre-o-projeto)
   * [Objetivo](#objetivo)
